@@ -26,7 +26,7 @@ function App() {
         style={{ height:50, marginTop:30 }}
       />
     </a>
-    <a href="https://instagram.com/the4hm3d_">
+    <a href="https://instagram.com/ahmedmusicpagebtw">
     <img
         src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small/instagram-logo-instagram-icon-transparent-free-png.png"
         alt="Spotify Logo"
